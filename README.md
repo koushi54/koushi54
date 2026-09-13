@@ -6,19 +6,19 @@
 
 <br>
 
-### Development
+### 💻　Development
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity,react,nextjs,supabase,postgres&theme=dark" />
 </a>
 
-### Languages & Markup
+### 📝 Languages & Markup
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cs,ts,js,py,latex,md,typst&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,ts,js,py,latex,md&theme=dark" />
 </a>
 
-### Tools
+### 🛠️ Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,discord,gmail&theme=dark" />
