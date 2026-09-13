@@ -15,13 +15,13 @@
 ### Languages & Markup
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,ts,js,py,c,cpp,latex,markdown&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,ts,js,py,latex,md&theme=dark" />
 </a>
 
 ### Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,notion,discord&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,notion,discord,gmail&theme=dark" />
 </a>
 
 </div>
