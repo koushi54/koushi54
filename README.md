@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,react,nextjs,supabase,postgres,py,cpp,git,github&perline=12&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,react,nextjs,supabase,postgres,py,c,cpp,git,github,discord&perline=12&theme=dark" />
 </a>
 
 </div>
