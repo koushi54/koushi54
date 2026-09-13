@@ -15,7 +15,7 @@
 ### Languages & Markup
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cs,ts,js,py,latex,md&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,ts,js,py,latex,md,typst&theme=dark" />
 </a>
 
 ### Tools
